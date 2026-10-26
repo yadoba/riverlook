@@ -3,7 +3,7 @@
 **Flow through every photo. Instant, lightweight image viewing and conversion in pure Rust by Yadoba Studio.**
 
 [![Official Website](https://img.shields.io/badge/website-riverlook.yadoba.com-00b4d8?style=for-the-badge)](https://riverlook.yadoba.com)
-[![Download Latest](https://img.shields.io/badge/downloads-Releases%20v0.8.2-0077b6?style=for-the-badge)](https://github.com/yadoba/riverlook/releases)
+[![Download Latest](https://img.shields.io/badge/downloads-Releases%20v0.8.3-0077b6?style=for-the-badge)](https://github.com/yadoba/riverlook/releases)
 [![Interactive 3D Demo](https://img.shields.io/badge/try_online-Live%20WASM%20Demo-48cae4?style=for-the-badge)](https://riverlook.yadoba.com/#demo)
 [![License](https://img.shields.io/badge/license-Freeware-101622?style=for-the-badge)](LICENSE)
 
