@@ -46,10 +46,9 @@ Prebuilt standalone binaries are published for **Windows**, **Linux**, and **mac
   - Native Wayland & X11 support with automatic desktop integration.
   - Tested on openSUSE (Tumbleweed / Leap), Ubuntu 22.04+, Fedora 38+, and Arch Linux.
 
-### macOS (Apple Silicon & Intel)
+### macOS (Apple Silicon)
 
 - **Apple Silicon (M1-M4):** [`riverlook-macos-arm64.tar.gz`](https://github.com/yadoba/riverlook/releases/latest/download/riverlook-macos-arm64.tar.gz)
-- **Intel Mac (x86_64):** [`riverlook-macos-x86_64.tar.gz`](https://github.com/yadoba/riverlook/releases/latest/download/riverlook-macos-x86_64.tar.gz)
   - Native Cocoa / AppKit acceleration for macOS 12 Monterey and newer.
 
 ---
