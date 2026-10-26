@@ -1,0 +1,70 @@
+================================================================================
+                   RIVERLOOK — END-USER LICENSE AGREEMENT (EULA)
+================================================================================
+
+IMPORTANT — PLEASE READ CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE:
+
+1. NO WARRANTY ("AS IS" BASIS)
+   This software ("RiverLook") is provided "AS IS" and "AS AVAILABLE",
+   without warranty of any kind, express or implied, including but not limited
+   to the warranties of merchantability, fitness for a particular purpose,
+   title, and non-infringement. The entire risk as to the quality, accuracy,
+   and performance of the software is with you.
+
+2. LIMITATION OF LIABILITY
+   In no event and under no legal theory, whether in tort (including
+   negligence), contract, or otherwise, shall Yadoba Studio, its author(s),
+   creator(s), contributors, or copyright holders be liable for any direct,
+   indirect, incidental, special, exemplary, or consequential damages
+   (including, without limitation, loss of data, corrupted image files, loss
+   of goodwill, or computer failure or malfunction) arising out of the use of
+   or inability to use this software, even if advised of the possibility of
+   such damages. Always maintain backups of your original photographs before
+   exporting or converting files.
+
+3. CODEC & THIRD-PARTY INTELLECTUAL PROPERTY NOTICE (HEIC / HEIF / HEVC / AVIF)
+   This software includes open-source image decoding and encoding libraries for
+   modern raster formats (including JPEG, PNG, WebP, AVIF, and HEIC/HEIF).
+   Certain compression standards (such as HEVC / H.265 used in HEIC/HEIF files)
+   may be subject to third-party patent rights in certain jurisdictions. You
+   are solely responsible for ensuring that your use of this software complies
+   with any applicable local patent or licensing laws in your jurisdiction.
+   Apple, iPhone, Microsoft, and Windows are trademarks of their respective
+   owners; this project is not affiliated with or endorsed by them.
+
+4. PRIVACY & LOCAL EXECUTION
+   RiverLook operates 100% locally on your device. It does not collect
+   telemetry, transmit images or EXIF/GPS metadata over the network, or phone
+   home to any external server.
+
+5. WINDOWS REGISTRY & FILE ASSOCIATION NOTICE
+   If you enable Windows Context Menu or "Open with..." integration during
+   setup, the installer writes per-user file association entries under
+   `HKEY_CURRENT_USER\Software\Classes` and `HKEY_CURRENT_USER\Software\RiverLook`.
+   These entries can be cleanly removed at any time using the uninstaller,
+   via Windows "Installed Apps", or via the in-app "Options ->
+   Unregister Windows Associations" command.
+
+6. FREEWARE LICENSE & PROPRIETARY RIGHTS
+   RiverLook is provided as free-to-use software. You are granted a personal,
+   worldwide, non-exclusive, royalty-free license to install, run, and use
+   this software for personal and commercial purposes.
+
+   The software binaries, graphics, branding, and source code are proprietary
+   works of Yadoba Studio. All rights not expressly granted herein are
+   reserved. You may not reverse engineer, decompile, disassemble, or modify
+   the RiverLook application binaries, nor may you sell or charge fees for the
+   distribution of this software without prior written permission.
+
+7. COPYRIGHT, ATTRIBUTION & CONTACT
+   Copyright (c) 2026 Yadoba Studio (yadoba.com) and its author(s).
+   All rights reserved.
+
+   Contact & Feedback: riverlook@mailbox.org
+   Website: https://riverlook.yadoba.com | https://yadoba.com
+
+   RiverLook dynamically links to unmodified libheif and libde265 shared
+   libraries under the GNU Lesser General Public License v3.0 (LGPL-3.0).
+   See THIRD_PARTY_LICENSES.txt for complete open-source notices, upstream
+   source code links, and instructions for replacing dynamic shared libraries.
+================================================================================
