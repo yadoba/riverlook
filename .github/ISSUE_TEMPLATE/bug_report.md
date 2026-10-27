@@ -20,7 +20,7 @@ A clear and concise description of what you expected to happen.
 
 **Operating System & Version:**
 - OS: [e.g. Windows 11 23H2 / Ubuntu 24.04 / macOS Sonoma 14.5]
-- RiverLook Version: [e.g. 0.8.4]
+- RiverLook Version: [e.g. 0.8.5]
 - GPU / Display: [e.g. NVIDIA RTX 4070 / Apple M1 / Intel Iris]
 
 **Image format causing the issue:**
