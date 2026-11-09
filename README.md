@@ -3,7 +3,7 @@
 **Flow through every photo. Instant, lightweight image viewing and conversion in pure Rust by Yadoba Studio.**
 
 [![Official Website](https://img.shields.io/badge/website-riverlook.yadoba.com-00b4d8?style=for-the-badge)](https://riverlook.yadoba.com)
-[![Download Latest](https://img.shields.io/badge/downloads-Releases%20v0.8.5-0077b6?style=for-the-badge)](https://github.com/yadoba/riverlook/releases)
+[![Download Latest](https://img.shields.io/badge/downloads-Releases%20v0.8.6-0077b6?style=for-the-badge)](https://github.com/yadoba/riverlook/releases)
 [![Interactive 3D Demo](https://img.shields.io/badge/try_online-Live%20WASM%20Demo-48cae4?style=for-the-badge)](https://riverlook.yadoba.com/#demo)
 [![License](https://img.shields.io/badge/license-Freeware-101622?style=for-the-badge)](LICENSE)
 
@@ -13,7 +13,8 @@ RiverLook is a high-performance cross-platform photo viewer and image converter 
 
 ## ⚡ Key Highlights
 
-- **⚡ Instant Launches (~15 ms):** Native hardware-accelerated rendering (`OpenGL` / `Glow`) with zero Electron or WebView2 bloat.
+- **⚡ Instant Launches (~15 ms):** Native hardware-accelerated rendering (`wgpu` DirectX 12/11 with WARP VM fallback, OpenGL, Vulkan, Metal) with zero Electron or WebView2 bloat.
+- **🎬 Automatic Slideshow & F11 Fullscreen:** Seamless immersive presentation mode with customizable interval (`2s`, `3s`, `5s`, `8s`), floating glass HUD controls, pause/resume, and looping.
 - **📱 Built-In iPhone HEIC Support:** Decode `.heic` and `.heif` camera captures out-of-the-box with multi-threaded performance.
 - **🌊 4 Interactive 3D Gallery Looks:**
   - **Whale Look:** Majestic ocean whale silhouette with conveyor streaming from flukes to mist spray.
